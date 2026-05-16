@@ -10,7 +10,7 @@ Olá, eu me chamo Lucas Roberto, mas pode me chamar só de Roberto, tenho 23 ano
 | Idade | 23 |
 | Aniversário | 18/02 |
 | Gênero | Homem Cisgênero |
-| Cargo Real | Auxiliar Logístico |
+| Cargo Real | Conferente de Materiais |
 | Cargo Pretendido | Analista de Sistemas Júnior |
 | OS | Linux |
 
@@ -68,7 +68,7 @@ Alguns dos meus Hobbies inclui
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | lloukas |
 | ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) | Balasar_Xx |
 
-
+*Atualizado em 16/05/2025*
 
 <!---
 Robert-Avel/Robert-Avel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
